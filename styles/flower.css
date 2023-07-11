@@ -23,20 +23,22 @@
     background-color: #E55473;
     border-style: none;
     border-radius: 6px;
-    padding: 10px;
+    padding: 30px;
     color: #ffffff;
     margin-top: 10px;
+    font-size: 30px;
 
 }
 .banner-title{
     color: #272727;
     font-weight: 700px;
-    font-size: 50px;
+    font-size: 70px;
     padding-bottom: 10px;
 }
 .banner-para{
     margin: 15px;
     color: #949393;
+    font-size: 20px;
 }
 /*This section 1*/
 .sec1-container{
@@ -95,7 +97,11 @@
     display: flex;
     margin: 140px 200px;
     background-color: #dedbdb;
+    height: 300px;
+    align-items: center;
     justify-content: space-around;
+    font-size: 25px;
+    color: #6b6666;
     padding: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -107,23 +113,25 @@
     align-items: center;
     justify-content: space-around;
     background:#fcd9eb ;
+    height: 700px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .sec3-title{
     color: #272727;
     font-weight:400px;
-    font-size: 35px;
+    font-size: 60px;
     padding-bottom: 10px;
 
 }
 .sec3-span{
     color: #E55473;
     font-weight: 100px;
-    font-size: 40px;
+    font-size: 50px;
 }
 .sec3-para{
     margin: 15px;
     color: #949393;
+    font-size: 20px;
 }
 .sec3-btn{
     background-color: #E55473;
@@ -131,6 +139,10 @@
     border-radius: 6px;
     padding: 10px ;
     color: #ffffff ;
+    font-size: 30px;
+
+
+    
     
     
     
@@ -145,6 +157,8 @@
 .sec4-para{
     padding: 20px;
     text-align: center;
+    font-size: 25px;
+    color: #949393;
 }
 .sec4-images{
     display: flex;
@@ -175,7 +189,7 @@
     border-radius: 6px;
     padding:20px;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 
 
@@ -195,14 +209,16 @@
 .email{
     
     font-size: 25px;
-    white-space: 30px;
+    height: 40px;
+    border-radius: 6px;
+    
     
 
 }
 /* This is foot css*/
 .foot-container{
     background-color: #111010;
-    height: 600px;
+    height: 400px;
     text-align: center;
     margin-top: 40px;
     padding: 150px;

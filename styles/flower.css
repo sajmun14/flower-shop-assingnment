@@ -37,6 +37,14 @@
     margin: 15px;
     color: #949393;
 }
+/*This is section 2*/
+.section-2{
+    display: flex;
+    margin: 140px 200px;
+    background-color: #dedbdb;
+    justify-content: space-around;
+    padding: 30px;
+}
 
 /*This is head section-3*/
 .section-3{
@@ -69,4 +77,26 @@
     color: #ffffff ;
     
     
+    
+}
+/*This section 4 */
+.sec4-title{
+    font-size: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.sec4-para{
+    padding: 20px;
+    text-align: center;
+}
+.sec4-images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+.image{
+    padding: 15px;
 }

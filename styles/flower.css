@@ -43,8 +43,8 @@
 /*This section 1*/
 .sec1-container{
     text-align: center;
-    margin-top: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 30px;
 }
 .sec1-title{
     font-size: 50px;
@@ -57,39 +57,37 @@
 }
 .sec1-images{
     display: flex;
-    align-items: center;
     justify-content: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    font-size: 20px;
-    margin: 40px;
-    
-    
-
-
-}
-
-.image-pink{
-    background-color: #f3b5c2;
-    height: 630px;
-    margin: 20px;
-
     
     
     
 }
-.image-booky{
-    background-color:  #c2e9ec;
-    height: 635px;
-    margin: 20px;
-    
+.caption-decore{
+    display: flex;
 }
-.image-yellow{
-    background-color: #e0d8d8;
-    height: 630px;
-    margin: 20px;
+.img1{
+    background-color: #fca0b4;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px ;
+    margin-right: 20px;
 }
-
-
+.img2{
+    background-color: #b8e2fc;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px ;
+    margin-right: 20px;
+}
+.img3{
+    background-color: #e5cdcd;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px ;
+}
 
 
 /*This is section 2*/

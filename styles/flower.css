@@ -15,6 +15,9 @@
 }
 .photo{
     width: 500px;
+    height: 700px ;
+    flex-shrink: 0;
+    padding: 0;
     
 
     
@@ -55,9 +58,18 @@
     color: #676565;
 
 }
+.caption{
+    color: #272727;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-decoration: underline;
+}
 .sec1-images{
     display: flex;
     justify-content: center;
+
     
     
     
@@ -138,12 +150,7 @@
     padding: 10px ;
     color: #ffffff ;
     font-size: 30px;
-
-
-    
-    
-    
-    
+   
 }
 /*This section 4 */
 .sec4-title{
@@ -185,7 +192,7 @@
     background-color: #E55473;
     border-style: none;
     border-radius: 6px;
-    padding:20px;
+    padding: 15px;
     color: #ffffff;
     font-size: 30px;
     text-align: center;
@@ -206,9 +213,10 @@
 }
 .email{
     
-    font-size: 25px;
-    height: 40px;
-    border-radius: 6px;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    font-size: 20px;
     
     
 

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*banner css section*/
+.banner{
+    display: flex;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #e3a7b4;
+    
+}
+.photo{
+    width: 450px;
+    margin: 10px 50px 0px 30px;
+}
+.banner-btn{
+    background-color: #E55473;
+    border-style: none;
+    border-radius: 6px;
+    padding: 10px;
+    color: #ffffff;
+    margin-top: 10px;
+
+}
+.banner-title{
+    color: #272727;
+    font-weight: 700px;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.banner-para{
+    margin: 15px;
+    color: #949393;
+}

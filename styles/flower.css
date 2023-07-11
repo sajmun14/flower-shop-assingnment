@@ -127,6 +127,7 @@
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-repeat: no-repeat;
     height: 500px ;
+    background-position: center;
     display: flex;
     margin: 100px 300px ;
     justify-content: space-around;

@@ -10,6 +10,7 @@
     align-items: center;
     justify-content: space-around;
     background-color: #fcd9eb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 .photo{
@@ -44,6 +45,8 @@
     background-color: #dedbdb;
     justify-content: space-around;
     padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 /*This is head section-3*/
@@ -52,6 +55,7 @@
     align-items: center;
     justify-content: space-around;
     background:#fcd9eb ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .sec3-title{
     color: #272727;
@@ -84,6 +88,7 @@
     font-size: 50px;
     margin: 50px;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .sec4-para{
     padding: 20px;
@@ -131,10 +136,42 @@
     display: flex;
     margin: 100px 300px ;
     justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 
 }
 .email{
     
     font-size: 25px;
+}
+/* This is foot css*/
+.foot-container{
+    background-color: #111010;
+    height: 600px;
+    text-align: center;
+    margin-top: 40px;
+    padding: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.foot-title{
+    font-size: 50px;
+    color: #fde5e5;
+    
+}
+.span-style{
+    color: #E55473;
+}
+.foot-para{
+    
+    font-size: 23px;
+    padding:50px;
+    color: #949393;
+    
+}
+.f-para{
+    font-size: 25px;
+    color: #676565;
 }

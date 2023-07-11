@@ -37,3 +37,36 @@
     margin: 15px;
     color: #949393;
 }
+
+/*This is head section-3*/
+.section-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background:#fcd9eb ;
+}
+.sec3-title{
+    color: #272727;
+    font-weight:400px;
+    font-size: 35px;
+    padding-bottom: 10px;
+
+}
+.sec3-span{
+    color: #E55473;
+    font-weight: 100px;
+    font-size: 40px;
+}
+.sec3-para{
+    margin: 15px;
+    color: #949393;
+}
+.sec3-btn{
+    background-color: #E55473;
+    border-style: none;
+    border-radius: 6px;
+    padding: 10px ;
+    color: #ffffff ;
+    
+    
+}

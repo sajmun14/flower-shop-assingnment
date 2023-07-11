@@ -38,6 +38,58 @@
     margin: 15px;
     color: #949393;
 }
+/*This section 1*/
+.sec1-container{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sec1-title{
+    font-size: 50px;
+
+}
+.sec1-para{
+    font-size: 24px;
+    color: #676565;
+
+}
+.sec1-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+    margin: 40px;
+    
+    
+
+
+}
+
+.image-pink{
+    background-color: #f3b5c2;
+    height: 630px;
+    margin: 20px;
+
+    
+    
+    
+}
+.image-booky{
+    background-color:  #c2e9ec;
+    height: 635px;
+    margin: 20px;
+    
+}
+.image-yellow{
+    background-color: #e0d8d8;
+    height: 630px;
+    margin: 20px;
+}
+
+
+
+
 /*This is section 2*/
 .section-2{
     display: flex;
@@ -121,9 +173,9 @@
     background-color: #E55473;
     border-style: none;
     border-radius: 6px;
-    padding:10px;
+    padding:20px;
     color: #ffffff;
-    
+    font-size: 20px;
     text-align: center;
 
 
@@ -143,6 +195,9 @@
 .email{
     
     font-size: 25px;
+    white-space: 30px;
+    
+
 }
 /* This is foot css*/
 .foot-container{
